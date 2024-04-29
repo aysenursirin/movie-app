@@ -1,0 +1,124 @@
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/appsettings.json
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/MovieApp
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/MovieApp.deps.json
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/MovieApp.runtimeconfig.json
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/MovieApp.dll
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/MovieApp.pdb
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.csproj.AssemblyReference.cache
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.AssemblyInfoInputs.cache
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.AssemblyInfo.cs
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.csproj.CoreCompileInputs.cache
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.RazorAssemblyInfo.cache
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.RazorAssemblyInfo.cs
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/staticwebassets/msbuild.MovieApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/staticwebassets/msbuild.build.MovieApp.props
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MovieApp.props
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MovieApp.props
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/scopedcss/bundle/MovieApp.styles.css
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.dll
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/refint/MovieApp.dll
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.pdb
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/MovieApp.genruntimeconfig.cache
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/obj/Debug/net7.0/ref/MovieApp.dll
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/package-lock.json
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/package.json
+/Users/tolgabayir/Desktop/Staj/projects/MovieApp/bin/Debug/net7.0/MovieApp.staticwebassets.runtime.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\appsettings.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\package-lock.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\package.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\MovieApp.staticwebassets.runtime.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\MovieApp.exe
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\MovieApp.deps.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\MovieApp.runtimeconfig.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\MovieApp.dll
+C:\Users\aysen\Desktop\movieepp\MovieApp\bin\Debug\net7.0\MovieApp.pdb
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.csproj.AssemblyReference.cache
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.AssemblyInfoInputs.cache
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.AssemblyInfo.cs
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.RazorAssemblyInfo.cache
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.RazorAssemblyInfo.cs
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.MovieApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieApp.props
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieApp.props
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieApp.props
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\scopedcss\bundle\MovieApp.styles.css
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.dll
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\refint\MovieApp.dll
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.pdb
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\MovieApp.genruntimeconfig.cache
+C:\Users\aysen\Desktop\movieepp\MovieApp\obj\Debug\net7.0\ref\MovieApp.dll
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\appsettings.json
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\package-lock.json
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\package.json
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\MovieApp.staticwebassets.runtime.json
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\MovieApp.exe
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\MovieApp.deps.json
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\MovieApp.runtimeconfig.json
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\MovieApp.dll
+C:\Users\aysen\Desktop\MovieApp\bin\Debug\net7.0\MovieApp.pdb
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.csproj.AssemblyReference.cache
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.AssemblyInfoInputs.cache
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.AssemblyInfo.cs
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.RazorAssemblyInfo.cache
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.RazorAssemblyInfo.cs
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.MovieApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieApp.props
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieApp.props
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieApp.props
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\scopedcss\bundle\MovieApp.styles.css
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.dll
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\refint\MovieApp.dll
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.pdb
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\MovieApp.genruntimeconfig.cache
+C:\Users\aysen\Desktop\MovieApp\obj\Debug\net7.0\ref\MovieApp.dll
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\appsettings.Development.json
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\appsettings.json
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\package-lock.json
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\package.json
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\MovieApp.staticwebassets.runtime.json
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\MovieApp.exe
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\MovieApp.deps.json
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\MovieApp.runtimeconfig.json
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\MovieApp.dll
+D:\asp.net core 7.0 mvc projects\MovieApp\bin\Debug\net7.0\MovieApp.pdb
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.csproj.AssemblyReference.cache
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.AssemblyInfoInputs.cache
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.AssemblyInfo.cs
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.csproj.CoreCompileInputs.cache
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.RazorAssemblyInfo.cache
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.RazorAssemblyInfo.cs
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.MovieApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieApp.props
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieApp.props
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieApp.props
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\scopedcss\bundle\MovieApp.styles.css
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.dll
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\refint\MovieApp.dll
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.pdb
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\MovieApp.genruntimeconfig.cache
+D:\asp.net core 7.0 mvc projects\MovieApp\obj\Debug\net7.0\ref\MovieApp.dll
