@@ -8,7 +8,7 @@ Genre Filter: Easily filter movies by genre to find content of interest.</br>
 Search Functionality: Search for specific movies by title or keywords.</br>
 User-Friendly Interface: Intuitive design for a smooth and enjoyable user experience.</br>
 
-# Techonologies Used
+# Technologies Used
 ASP.NET Core: A cross-platform, high-performance framework for building modern web applications. </br>
 C#: The programming language used for server-side development. </br>
 Entity Framework Core: An ORM (Object-Relational Mapping) framework for database operations. </br>
