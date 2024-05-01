@@ -11,6 +11,5 @@ User-Friendly Interface: Intuitive design for a smooth and enjoyable user experi
 # Technologies Used
 ASP.NET Core: A cross-platform, high-performance framework for building modern web applications. </br>
 C#: The programming language used for server-side development. </br>
-Entity Framework Core: An ORM (Object-Relational Mapping) framework for database operations. </br>
 HTML/CSS: Frontend markup and styling. </br>
 Bootstrap: A popular CSS framework for building responsive and mobile-first websites. </br>
